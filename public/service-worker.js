@@ -2,6 +2,9 @@ const FILES_TO_CACHE = [
   '/',
   '/index.html',
   '/favicon.ico',
+  'styles.css',
+  'index.js',
+  'db.js'
 ];
 
 const CACHE_NAME = "static-cache-v2";
